@@ -28,5 +28,5 @@ int main() {
 	
 	// ²âÊÔ¶ş¿ªÊ¼
 	// one / xxx /
-	// this id bug code
+
 }  
