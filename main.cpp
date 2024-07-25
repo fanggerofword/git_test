@@ -6,4 +6,6 @@ int main() {
 	Test _test2;
 	_test2.TestThis();
 	return 0;
+
+	// 测试重置 ——其更改节点之后的内容将作为重置——保留更改 的 测试环节
 }  
